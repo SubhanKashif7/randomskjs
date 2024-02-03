@@ -1,0 +1,11 @@
+{
+  "name": "randomskjs",
+  "version": "1.0.0",
+  "description": "a randomLibrary for randomaizing arr and objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "subhna",
+  "license": "ISC"
+}
